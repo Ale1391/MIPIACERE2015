@@ -1,0 +1,16 @@
+Tutorial IntelliJ
+
+- https://www.youtube.com/watch?v=dTvytiLsMFI&list=PLuEZQoW9bRnR4CbS0Q6SJbGIVfspUTT5Y&index=2
+
+- https://www.jetbrains.com/idea/help/creating-and-running-your-first-java-application.html#explore_project_structure
+
+
+
+Interfaz gráfica Eclipse
+
+- http://codejavu.blogspot.com.ar/2014/03/como-crear-interfaces-graficas-en.html
+
+
+Layouts en programación gráfica
+
+- http://chuwiki.chuidiang.org/index.php?title=Uso_de_Layouts
