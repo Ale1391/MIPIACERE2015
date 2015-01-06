@@ -1,0 +1,110 @@
+
+
+!---------------------------------------------------------------------------!
+!							                    !
+!	compras			ventas 		                            !
+!							                    !
+!---------------------------------------------------------------------------!
+!	pagos			cobranzas		parametros generales!
+!						                            ! 
+!							                    !
+!---------------------------------------------------------------------------!
+!	herraminetas            inf grales   		stock	            !
+!						                            !
+!---------------------------------------------------------------------------!
+
+primer inicio
+--------------
+clases a la altura de principal
+
+*crear empresa
+*elegir existente
+
+* crear empresa
+	nombre empresa:
+	usuario:
+	contraseña:
+	datos de la empresa: (cuit, razon social, 
+
+	(manejar privilegios)
+
+
+--------------------
+!pantalla principal!
+-------------------
+c/u  ABM  (alta, baja, modificacion)
+
+
+compras --> funciones
+-------
+*registrar operacion
+*configuracion compras
+*- actualizar stock  (oculto)
+*registrar comprobante (es de caracter legal)
+*informes
+
+ventas -->
+------
+*registrar operacion
+*configuracion ventas
+*registrar comprobante
+*modificar
+*informes
+
+pagos -->
+-----
+*registrar operacion
+*si compra es en efectivo pago se registra automaticamente
+*registrar comprobante
+*configuracion 
+*anular operacion
+*informes
+
+//cobranzas -->
+-----------
+*registrar operacion
+*registrar comprobante
+*configuracion 
+*  son ventas de contado, en este caso no se implementaria 
+*anular operacion     
+*informes
+
+stock -->
+-----
+*listas de precios
+*listas de costos
+*cantidades
+*configuracion
+*ABM
+*informes
+
+parametros generales (WTF, configuraciones que afectan a todos los modulos)-->
+--------------------
+
+
+informes generales-->
+------------------
+
+
+herramientas -->
+------------
+*bkp
+*indexaciones
+*compresiones
+*ABM usuarios
+
+
+
+
+
+
+---------------------------------------------------------------------------
+intentaremos con arboles.
+ver implementacion de tablas  y su mantenimiento (compresion e indexacion)
+ver privilegios 
+----------------------------------------------------------------------------
+
+
+
+
+
