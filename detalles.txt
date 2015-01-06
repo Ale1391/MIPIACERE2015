@@ -29,7 +29,7 @@ clases a la altura de principal
 	(manejar privilegios)
 
 
---------------------
+------------------------------------------------------------------
 !pantalla principal!
 -------------------
 c/u  ABM  (alta, baja, modificacion)
@@ -94,9 +94,11 @@ herramientas -->
 *ABM usuarios
 
 
-
-
-
+datos -->
+-----
+*info de clientes
+*info proveedores
+*bancos
 
 ---------------------------------------------------------------------------
 intentaremos con arboles.
@@ -106,5 +108,29 @@ ver privilegios
 
 
 
+----------------------------------------------------------
+!    GUI    !
+-------------
+
+* interfaz clasica, con ventanas al estilo del sistema (windows)
+* botones (no links) 
+
+*ordenado por columnas
+
+*operaciones basicas
+vender comprar vender y cobrar
+
+*operaciones avanzadas
+parametros generales y herramientas
+
+*contabilidad
+stock, datos e informes generales
 
 
+---------------------------------------------------------
+!Division de trabajo!
+--------------------
+
+
+Ale: GUI  operaciones basicas
+Abdul: GUI  contabilidad 
