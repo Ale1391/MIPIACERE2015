@@ -134,3 +134,17 @@ stock, datos e informes generales
 
 Ale: GUI  operaciones basicas
 Abdul: GUI  contabilidad 
+-----------------------------------------------------------------------------------------------
+Anotaciones personales
+
+Frame, distintos frames para cada menu??
+Panel: donde van los componentes
+Layout manager: gestor de apariencia, alinea componentes dentro del panel
+
+
+clase
+variables
+constructor
+	lo que hace
+metodos
+	implementacion de lo que hace
