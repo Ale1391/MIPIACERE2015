@@ -8,7 +8,7 @@ public class Principal {
     public static void main(String[] args) {
 
         Ingreso fIngreso = new Ingreso();
-        fIngreso.setVisible(true);
+       // fIngreso.setVisible(true);
 
 
     }
