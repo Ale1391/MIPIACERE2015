@@ -56,7 +56,7 @@ public class Ingreso extends JFrame implements ActionListener {
         ventana.setTitle("Pantalla Principal");
         ventana.setVisible(true);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        //    setTitle("Ingreso al sistema");
+        //    setTitle("aplicacion.funcionalidades.Ingreso al sistema");
         //    setResizable(false);
         //    setLayout(null);
     }
