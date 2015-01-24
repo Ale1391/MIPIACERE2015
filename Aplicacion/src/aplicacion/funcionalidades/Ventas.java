@@ -44,7 +44,7 @@ public class Ventas extends JFrame {
         add(botonComprobante);
 
         // Se ubican los elementos en la ventana
-        texto1.reshape(20, 20, 100, 15);
+        texto1.setBounds(500, 200, 200, 250);
         botonConfig.reshape(20, 30, 200, 230);
         botonOperacion.reshape(20, 30, 200, 230);
         botonComprobante.reshape(20, 30, 200, 230);

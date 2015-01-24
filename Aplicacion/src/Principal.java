@@ -1,4 +1,4 @@
-import aplicacion.funcionalidades.Ingreso;
+import aplicacion.Ingreso;
 
 /**
  * Created by Papa Frita on 31/12/2014.
