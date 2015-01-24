@@ -148,3 +148,7 @@ constructor
 	lo que hace
 metodos
 	implementacion de lo que hace
+
+
+
+lalaalalala
