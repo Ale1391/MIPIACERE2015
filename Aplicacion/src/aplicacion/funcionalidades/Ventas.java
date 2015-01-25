@@ -49,6 +49,8 @@ public class Ventas extends JFrame {
         botonOperacion.reshape(20, 30, 200, 230);
         botonComprobante.reshape(20, 30, 200, 230);
 
+        this.setVisible(true);
+
     }
 
 
