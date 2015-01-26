@@ -11,6 +11,11 @@ Interfaz gráfica Eclipse
 - http://codejavu.blogspot.com.ar/2014/03/como-crear-interfaces-graficas-en.html
 
 
+	Uso de objetos:
+		- Combobox: http://www.javaya.com.ar/detalleconcepto.php?codigo=109&inicio=20
+
+
+
 Layouts en programación gráfica
 
 - http://chuwiki.chuidiang.org/index.php?title=Uso_de_Layouts
