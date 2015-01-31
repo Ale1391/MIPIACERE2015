@@ -1,0 +1,3 @@
+Recordar que es necesario especificar un JDK (Java Development Kit) al importar o crear un proyecto.
+Este software puede descargarse desde internet y debe ser instalado en la PC para luego ser referenciado por el proyecto.
+Se recomienda mantener actualizada la versión del JDK.

@@ -1,0 +1,5 @@
+Requisitos:
+- IntelliJ IDEA Ultimate.
+- sqlite3.exe.
+- Driver JDBC (con extensión .jar), ya sea desarrollado por Xerial o Zentus.
+- SQLite  Manager (plugin de Mozilla Firefox).

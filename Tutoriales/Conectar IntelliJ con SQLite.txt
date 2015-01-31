@@ -1,0 +1,4 @@
+1. Abrir barra de herramientas de base de datos desde View, Tool Windows, Database.
+2. Click en New, Data Source, SQLite y luego en el nombre del creador del driver JDBC correspondiente (en nuestro caso Xerial).
+3. Colocamos el nombre en el campo Name, la ruta de la base a utilizar en el campo File y la referencia al driver JDBC desplegando el campo Driver files y haciendo click en Add.
+4. Probar la conección con el botón Test Connection.
