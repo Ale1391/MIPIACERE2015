@@ -32,7 +32,7 @@ public class Ventas extends JFrame {
         // Sin uso de plantilla de distribucion de elementos
         setLayout(null);
         // Cuando cierra se saca el proceso de ejecucion
-        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+       // this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 
     // 2) DEFINICION DE OBJETOS
         txtInfo = new JLabel("Ingrese la opcion deseada:");
